@@ -1,0 +1,142 @@
+/* English Localizable.strings */
+
+// Auth
+"auth.signin" = "Sign In";
+"auth.signup" = "Sign Up";
+"auth.email" = "Email";
+"auth.password" = "Password";
+"auth.confirm_password" = "Confirm Password";
+"auth.create_account" = "Create Account";
+"auth.error.empty" = "Please fill in all fields";
+"auth.error.password_length" = "Password must be at least 6 characters";
+"auth.error.passwords_mismatch" = "Passwords don't match";
+"auth.error.invalid" = "Invalid credentials";
+"auth.tagline" = "Track. Focus. Thrive.";
+
+// Onboarding
+"onboarding.name.title" = "What's your name?";
+"onboarding.name.subtitle" = "How should we call you?";
+"onboarding.name.placeholder" = "Your name";
+"onboarding.color.title" = "Pick your color";
+"onboarding.color.subtitle" = "Choose your avatar color";
+"onboarding.team.title" = "Join a team";
+"onboarding.team.subtitle" = "Find your focus community";
+"onboarding.continue" = "Continue";
+"onboarding.getstarted" = "Get Started ->";
+
+// Tasks
+"tasks.title" = "Tasks";
+"tasks.progress" = "Today's Progress";
+"tasks.see_summary" = "See summary";
+"tasks.empty" = "No tasks yet";
+"tasks.empty.subtitle" = "Tap + to add your first task";
+"tasks.add.title" = "New Task";
+"tasks.add.placeholder" = "What do you want to focus on?";
+"tasks.add.category" = "Category";
+"tasks.add.book_title" = "Book Title";
+"tasks.add.book_placeholder" = "Optional: book title";
+"tasks.completed" = "Show Completed";
+"tasks.hide_completed" = "Hide Completed";
+"tasks.completion" = "%d%% complete";
+"tasks.category.all" = "All";
+
+// Categories
+"category.work" = "Work";
+"category.reading" = "Reading";
+"category.study" = "Study";
+"category.wellness" = "Wellness";
+"category.home" = "Home";
+"category.personal" = "Personal";
+
+// Focus
+"focus.title" = "Focus";
+"focus.select_task" = "Select a task to focus on";
+"focus.state.ready" = "ready";
+"focus.state.focusing" = "focusing";
+"focus.save" = "Save";
+"focus.complete" = "Complete";
+"focus.reset" = "Reset";
+"focus.pick_task" = "Pick a Task";
+"focus.no_tasks" = "No tasks to focus on";
+"focus.no_tasks.subtitle" = "Add tasks in the Tasks tab first";
+
+// Feed
+"feed.title" = "Feed";
+"feed.team" = "Team Members";
+"feed.no_sessions" = "No sessions yet";
+"feed.no_sessions.subtitle" = "Complete a focus session to see it here";
+"feed.focused_for" = "Focused for";
+"feed.on" = "on";
+
+// Groups
+"groups.title" = "Groups";
+"groups.create" = "Create Group";
+"groups.join" = "Join Group";
+"groups.leave" = "Leave Group";
+"groups.joined" = "Joined";
+"groups.members" = "members";
+"groups.posts" = "posts";
+"groups.no_posts" = "No posts yet";
+"groups.new_post.placeholder" = "Share something with the group...";
+"groups.new_post.title" = "New Post";
+"groups.name" = "Group Name";
+"groups.description" = "Description";
+"groups.emoji" = "Emoji";
+"groups.color" = "Color";
+
+// Profile
+"profile.title" = "Profile";
+"profile.focused" = "focused";
+"profile.sessions" = "sessions";
+"profile.tasks_done" = "tasks done";
+"profile.friends" = "Friends";
+"profile.share" = "Share your progress...";
+"profile.no_posts" = "No posts yet";
+
+// Settings
+"settings.title" = "Settings";
+"settings.profile" = "Profile";
+"settings.photo" = "Profile Photo";
+"settings.photo.subtitle" = "Tap to change";
+"settings.name" = "Display Name";
+"settings.bio" = "Bio";
+"settings.avatar_color" = "Avatar Color";
+"settings.save" = "Save Profile";
+"settings.saved" = "Saved!";
+"settings.language" = "Language";
+"settings.theme" = "Background Theme";
+"settings.account" = "Account";
+"settings.signout" = "Sign Out";
+"settings.signout.confirm" = "Are you sure you want to sign out?";
+
+// Day Summary
+"summary.title" = "Day Summary";
+"summary.greeting.morning" = "Good morning!";
+"summary.greeting.afternoon" = "Good afternoon!";
+"summary.greeting.evening" = "Good evening!";
+"summary.focused" = "focused";
+"summary.tasks_done" = "tasks done";
+"summary.sessions" = "sessions";
+"summary.by_category" = "Time by Category";
+"summary.completed_tasks" = "Completed Tasks";
+"summary.empty" = "Nothing logged yet today";
+"summary.empty.subtitle" = "Start a focus session to track your day!";
+"summary.done" = "Done";
+
+// Tab bar
+"tab.tasks" = "Tasks";
+"tab.focus" = "Focus";
+"tab.feed" = "Feed";
+"tab.groups" = "Groups";
+"tab.profile" = "Profile";
+
+// Teams
+"team.thestack" = "The Stack";
+"team.flowstate" = "Flow State";
+"team.pageturners" = "Page Turners";
+"team.nest" = "Nest";
+
+// Comments
+"comment.add" = "Add a comment...";
+"comment.no_comments" = "No comments yet";
+"comment.title" = "Comments";

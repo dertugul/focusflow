@@ -1,0 +1,142 @@
+/* Turkish Localizable.strings */
+
+// Auth
+"auth.signin" = "Giris Yap";
+"auth.signup" = "Kayit Ol";
+"auth.email" = "E-posta";
+"auth.password" = "Sifre";
+"auth.confirm_password" = "Sifre Dogrulama";
+"auth.create_account" = "Hesap Olustur";
+"auth.error.empty" = "Lutfen tum alanlari doldurun";
+"auth.error.password_length" = "Sifre en az 6 karakter olmalidir";
+"auth.error.passwords_mismatch" = "Sifreler eslesmiyor";
+"auth.error.invalid" = "Gecersiz kimlik bilgileri";
+"auth.tagline" = "Takip Et. Odaklan. Gelis.";
+
+// Onboarding
+"onboarding.name.title" = "Adiniz nedir?";
+"onboarding.name.subtitle" = "Sizi nasil cagiralalim?";
+"onboarding.name.placeholder" = "Adiniz";
+"onboarding.color.title" = "Renginizi secin";
+"onboarding.color.subtitle" = "Avatar renginizi belirleyin";
+"onboarding.team.title" = "Bir ekibe katilin";
+"onboarding.team.subtitle" = "Odaklanma toplulugunu bulun";
+"onboarding.continue" = "Devam Et";
+"onboarding.getstarted" = "Basla ->";
+
+// Tasks
+"tasks.title" = "Gorevler";
+"tasks.progress" = "Bugunku Ilerleme";
+"tasks.see_summary" = "Ozeti gor";
+"tasks.empty" = "Henuz gorev yok";
+"tasks.empty.subtitle" = "Ilk gorevinizi eklemek icin + tusuna basin";
+"tasks.add.title" = "Yeni Gorev";
+"tasks.add.placeholder" = "Neye odaklanmak istiyorsunuz?";
+"tasks.add.category" = "Kategori";
+"tasks.add.book_title" = "Kitap Adi";
+"tasks.add.book_placeholder" = "Opsiyonel: kitap adi";
+"tasks.completed" = "Tamamlananlari Goster";
+"tasks.hide_completed" = "Tamamlananlari Gizle";
+"tasks.completion" = "%%%d tamamlandi";
+"tasks.category.all" = "Hepsi";
+
+// Categories
+"category.work" = "Calisma";
+"category.reading" = "Okuma";
+"category.study" = "Calisma";
+"category.wellness" = "Saglik";
+"category.home" = "Ev";
+"category.personal" = "Kisisel";
+
+// Focus
+"focus.title" = "Odak";
+"focus.select_task" = "Odaklanmak icin gorev secin";
+"focus.state.ready" = "hazir";
+"focus.state.focusing" = "odaklaniyor";
+"focus.save" = "Kaydet";
+"focus.complete" = "Tamamla";
+"focus.reset" = "Sifirla";
+"focus.pick_task" = "Gorev Sec";
+"focus.no_tasks" = "Odaklanacak gorev yok";
+"focus.no_tasks.subtitle" = "Once Gorevler sekmesine gorev ekleyin";
+
+// Feed
+"feed.title" = "Akis";
+"feed.team" = "Ekip Uyeleri";
+"feed.no_sessions" = "Henuz seans yok";
+"feed.no_sessions.subtitle" = "Odaklanma seansi tamamlayin";
+"feed.focused_for" = "Odaklandi";
+"feed.on" = "konusunda";
+
+// Groups
+"groups.title" = "Gruplar";
+"groups.create" = "Grup Olustur";
+"groups.join" = "Gruba Katil";
+"groups.leave" = "Gruptan Ayril";
+"groups.joined" = "Katildi";
+"groups.members" = "uye";
+"groups.posts" = "gonderi";
+"groups.no_posts" = "Henuz gonderi yok";
+"groups.new_post.placeholder" = "Grupla bir seyler paylasin...";
+"groups.new_post.title" = "Yeni Gonderi";
+"groups.name" = "Grup Adi";
+"groups.description" = "Aciklama";
+"groups.emoji" = "Emoji";
+"groups.color" = "Renk";
+
+// Profile
+"profile.title" = "Profil";
+"profile.focused" = "odaklandi";
+"profile.sessions" = "seans";
+"profile.tasks_done" = "gorev tamamlandi";
+"profile.friends" = "Arkadaslar";
+"profile.share" = "Ilerlemeni paylas...";
+"profile.no_posts" = "Henuz gonderi yok";
+
+// Settings
+"settings.title" = "Ayarlar";
+"settings.profile" = "Profil";
+"settings.photo" = "Profil Fotografi";
+"settings.photo.subtitle" = "Degistirmek icin dokunun";
+"settings.name" = "Goruntulenecek Ad";
+"settings.bio" = "Biyografi";
+"settings.avatar_color" = "Avatar Rengi";
+"settings.save" = "Profili Kaydet";
+"settings.saved" = "Kaydedildi!";
+"settings.language" = "Dil";
+"settings.theme" = "Arka Plan Temasi";
+"settings.account" = "Hesap";
+"settings.signout" = "Cikis Yap";
+"settings.signout.confirm" = "Cikis yapmak istediginizden emin misiniz?";
+
+// Day Summary
+"summary.title" = "Gun Ozeti";
+"summary.greeting.morning" = "Gunaydin!";
+"summary.greeting.afternoon" = "Iyi ogleden sonrasi!";
+"summary.greeting.evening" = "Iyi aksamlar!";
+"summary.focused" = "odaklandi";
+"summary.tasks_done" = "gorev tamamlandi";
+"summary.sessions" = "seans";
+"summary.by_category" = "Kategoriye Gore Sure";
+"summary.completed_tasks" = "Tamamlanan Gorevler";
+"summary.empty" = "Bugun henuz bir sey kaydedilmedi";
+"summary.empty.subtitle" = "Gunuzu takip etmek icin odaklanma seansi baslatin!";
+"summary.done" = "Tamam";
+
+// Tab bar
+"tab.tasks" = "Gorevler";
+"tab.focus" = "Odak";
+"tab.feed" = "Akis";
+"tab.groups" = "Gruplar";
+"tab.profile" = "Profil";
+
+// Teams
+"team.thestack" = "The Stack";
+"team.flowstate" = "Flow State";
+"team.pageturners" = "Page Turners";
+"team.nest" = "Nest";
+
+// Comments
+"comment.add" = "Bir yorum ekleyin...";
+"comment.no_comments" = "Henuz yorum yok";
+"comment.title" = "Yorumlar";
